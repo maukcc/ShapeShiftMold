@@ -6,4 +6,4 @@ By moving an 2D array of multiple miniature actuators in 1D, we will get a 3D pl
 A 3D scan is converted to a real 3D plane in seconds, then to a 3D vacuum molded object in minutes.
 Creating zero cost vacuum forming.
 
-This method is licensed under CERN OHL v1.2 by MaukCC. 
+This method is licensed under CERN OHL v1.2 by MaukCC. All relavant documentation shall be found in this repository.
