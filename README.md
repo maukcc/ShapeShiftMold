@@ -9,4 +9,4 @@ Creating zero cost vacuum forming.
 
 Further explanation in the wiki of this repository.
 
-This method is licensed under CERN OHL v1.2 by MaukCC. All relavant documentation shall be found in this repository.
+This method is licensed under CERN OHL v1.2 by MaukCC. All relevant documentation shall be found in this repository.
