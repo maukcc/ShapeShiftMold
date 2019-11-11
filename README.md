@@ -7,4 +7,6 @@ On top and attached to this 3D plane will be a perforated skin to ensure a smoot
 A 3D scan is converted to a real 3D plane in seconds, then to a 3D vacuum molded object in minutes.
 Creating zero cost vacuum forming.
 
+Further explanation in the wiki of this repository.
+
 This method is licensed under CERN OHL v1.2 by MaukCC. All relavant documentation shall be found in this repository.
