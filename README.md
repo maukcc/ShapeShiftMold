@@ -1,6 +1,6 @@
 Shape Shift Mold
 ====
-ShapeShiftMold is a 3D shape shifting mold to make a zero cost vacuum mold.
+ShapeShiftMold is a 3D shape shifting mold that can make ultra low cost vacuum molded parts.
 
 By moving an 2D array of multiple miniature actuators in 1D, we will get a 3D plane that can be used for vacuum forming.
 On top and attached to this 3D plane will be a perforated skin to ensure a smooth surface and for the vacuum condition.
