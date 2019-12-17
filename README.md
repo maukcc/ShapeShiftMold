@@ -1,3 +1,8 @@
+Unique Fast Forming
+====
+
+Unique Fast Forming relies on a 3D scanned object that is immediately transformed to a ShapeShiftMold in seconds, then to a 3D vacuum molded object in minutes. Creating very low cost vacuum forming parts.
+
 Shape Shift Mold
 ====
 ShapeShiftMold is a 3D shape shifting mold that can make ultra low cost vacuum molded parts.
